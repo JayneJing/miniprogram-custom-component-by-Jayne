@@ -1,0 +1,8 @@
+<view class="card">
+  <view>
+    <text class="title">{{title}}</text>
+  </view>
+  <view>
+    <text class="description">{{description}}</text>
+  </view>
+</view>

@@ -1,0 +1,14 @@
+.card {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  min-height: 100px;
+  width: 280px;
+  padding: 16px
+}
+.title {
+  font-size: 20px;
+  color: #333
+}
+.description {
+  font-size: 16px;
+  color: #666
+}
