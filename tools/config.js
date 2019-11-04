@@ -12,7 +12,7 @@ const dev = path.join(demoDist, 'components')
 const dist = path.resolve(__dirname, '../miniprogram_dist')
 
 module.exports = {
-  entry: ['/component/card/index'],
+  entry: ['/component/card/index', '/component/customButton/index'],
 
   isDev,
   isWatch,
