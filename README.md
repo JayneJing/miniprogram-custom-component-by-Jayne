@@ -1,4 +1,7 @@
 # mini-custom-by-jayne
+一些用来测试的微信小程序自定义控件
+
+``$ npm install mini-custom-by-jayne``
 
 ``$ npm install``
 
